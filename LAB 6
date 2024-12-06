@@ -1,0 +1,5 @@
+Penjelasan
+1. Fungsi tambah()*: Menambahkan data baru ke dalam dictionary data_mahasiswa.
+2. Fungsi tampilkan()*: Menampilkan semua data mahasiswa yang telah disimpan.
+3. Fungsi hapus()*: Menghapus data mahasiswa berdasarkan nama.
+4. Fungsi ubah()*: Mengubah nilai mahasiswa berdasarkan nama.
